@@ -12,4 +12,4 @@
 2. Project [Seeya!](https://musicalseeya.com/) (2020~) → will be released in May!
 3. Student Intern - Buzzbeaters (2020.12-2021.2)
 
-##### Oops. All repositories I have participated in are private....😥
+### Oops. All repositories I have participated in are private....😥
