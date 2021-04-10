@@ -1,16 +1,13 @@
-### Hi there 👋
+### Shalom :)
+##### Hello. I'm HyeIn Lee from South Korea!
+  
+- 🎨 Techs that I've used at least once
+  - Python, Javascript, C, Java, Ruby
+  - Django, Ruby On Rails, Nodejs, Ajax
+  
+- 📫 How to reach me: Please send email to shalomhi22@gmail.com
 
-<!--
-**shalomhi22/shalomhi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+1. Programming Club - Likelion at Sogang Univ. (2020)
+2. Project [Seeya!](https://musicalseeya.com/) (2020~) → will be released in May!
+3. Student Intern - Buzzbeaters (2020.12-2021.2)
