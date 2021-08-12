@@ -9,7 +9,7 @@
 
 ### Experience
 1. Programming Club - Likelion at Sogang Univ. (2020)
-2. Project [Seeya!](https://musicalseeya.com/) (2020~) → will be released in May!
+2. Project [Seeya!](https://musicalseeya.com/) (released in 2021.05)
 3. Student Intern - Buzzbeaters (2020.12-2021.2)
 
-### Oops. All repositories I have participated in are private....😥
+### Oops. Main repositories I have participated in are private....😥
